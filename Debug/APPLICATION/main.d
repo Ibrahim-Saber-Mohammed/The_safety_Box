@@ -1,0 +1,25 @@
+APPLICATION/main.o APPLICATION/main.o: ../APPLICATION/main.c \
+  ../APPLICATION/../LIB/STD_TYPES/STD_TYPES.h \
+  ../APPLICATION/../LIB/BIT_MATH/BIT_MATH.h \
+  ../APPLICATION/../MCAL/DIO/GPIO_interface.h \
+  ../APPLICATION/../MCAL/EEPROM/EEPROM_interface.h \
+  ../APPLICATION/../MCAL/SPI/SPI_interface.h \
+  ../APPLICATION/../HAL/LCD/CLCD_interface.h \
+  ../APPLICATION/../HAL/KeyPad/KEYPAD_interface.h \
+  ../APPLICATION/Application.h
+
+../APPLICATION/../LIB/STD_TYPES/STD_TYPES.h:
+
+../APPLICATION/../LIB/BIT_MATH/BIT_MATH.h:
+
+../APPLICATION/../MCAL/DIO/GPIO_interface.h:
+
+../APPLICATION/../MCAL/EEPROM/EEPROM_interface.h:
+
+../APPLICATION/../MCAL/SPI/SPI_interface.h:
+
+../APPLICATION/../HAL/LCD/CLCD_interface.h:
+
+../APPLICATION/../HAL/KeyPad/KEYPAD_interface.h:
+
+../APPLICATION/Application.h:
