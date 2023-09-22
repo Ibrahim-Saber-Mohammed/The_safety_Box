@@ -1,0 +1,5 @@
+K:/GitHub_Repos/The_safety_Box/Build/CMakeFiles/SAFTY_BOX.elf.dir
+K:/GitHub_Repos/The_safety_Box/Build/CMakeFiles/FLASH.dir
+K:/GitHub_Repos/The_safety_Box/Build/CMakeFiles/BURN.dir
+K:/GitHub_Repos/The_safety_Box/Build/CMakeFiles/edit_cache.dir
+K:/GitHub_Repos/The_safety_Box/Build/CMakeFiles/rebuild_cache.dir
